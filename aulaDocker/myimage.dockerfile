@@ -11,7 +11,7 @@ ENV port="3000"
 
 ENV user="acostlop"
 
-ENV password="acostlop7"
+ENV password="aa#sjdk@@h235&&*(#)"
 
 COPY aulaDocker/requeriments.txt /${WORKDIR}
 
